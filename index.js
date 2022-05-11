@@ -7,3 +7,5 @@ if (window.matchMedia &&
 function myFunction (){
   return false
 };
+
+document.getElementById('video').play();
