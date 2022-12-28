@@ -3,6 +3,12 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: 'Source Code Pro', monospace;
+    color: white;
+}
+
+body {
+    background-color: black;
+
 }
 
 .container{
@@ -58,7 +64,7 @@ justify-self: center;
 
 /*-------------------rrss--------------*/
 .ig{
-    margin: 100px;
+    margin: 35px;
     text-decoration: none;
     color: #111111;
     font-size: min(25px, 10vw);
@@ -77,3 +83,12 @@ justify-self: center;
     padding-left: 5px;
 }
 
+.ocultar {
+    display: none;    
+}
+
+/*-------------------imgdamns23--------------*/
+
+.damns23 {height: 80vh ;
+
+}
